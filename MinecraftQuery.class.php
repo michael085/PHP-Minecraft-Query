@@ -184,7 +184,6 @@ class MinecraftQuery
 		{
 			return false;
 		}
-		
 		return SubStr( $Data, 5 );
 	}
 }
